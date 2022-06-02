@@ -1,2 +1,1 @@
-#William Schmidt Coding Samples 
-#This is a collection of coding smaples, either from my own personal research or in class assignments that I feel best captures my ability to code in Python and R effectively
+This is a collection of coding smaples, either from my own personal research or in class assignments that I feel best captures my ability to code in Python and R effectively for a variety of different statistical purposes, including, but not limited to machine learning, liklihood ratio tests, data importation and manipulation. Of particular interest is every file containing 521, as these were completed at the PhD level, and express a comfortability with writing functions, visualization, and working with stata data in Python. 
